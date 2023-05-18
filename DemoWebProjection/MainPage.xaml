@@ -9,7 +9,7 @@
             <RowDefinition/>
             <RowDefinition Height="0.1*"/>
         </Grid.RowDefinitions>
-        <WebView x:Name="Projection" Grid.Row="0"/>
+        <!--<WebView x:Name="Projection" Grid.Row="0"/>-->
         <Switch ZIndex="5"/>
         <!--hide ui switch-->
         <HorizontalStackLayout Grid.Row="1" HorizontalOptions="CenterAndExpand">
